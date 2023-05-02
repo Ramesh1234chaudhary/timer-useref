@@ -1,0 +1,18 @@
+
+
+.movielist{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 15px;
+}
+.main{
+    width: 150px;
+    padding:10px;
+    text-align: center;
+    box-shadow: 0 0 10px black;
+    color:white;
+}
+.poster{
+    width: 150px;
+}
